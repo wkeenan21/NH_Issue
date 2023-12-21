@@ -222,7 +222,7 @@ save_validation_results: False
 dataset: wills_dataset
 
 # Path to data set root
-data_dir: T:\ProjectWorkspace\EPA\SSWR_EPA_project\Gage_time_series\Will_Keenan\NeuralHydrology\neuralhydrology-master\data
+data_dir: T:\ProjectWorkspace\EPA\SSWR_EPA_project\Gage_time_series\Will_Keenan\NeuralHydrology\neuralhydrology-master\data5
 
 # Set to True, if train data file should be save to disk. If empty or False, train data is not saved.
 save_train_data: False
